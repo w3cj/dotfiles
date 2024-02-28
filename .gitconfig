@@ -1,5 +1,7 @@
 [user]
+	name = w3cj
 	email = cj@null.computer
-	name = w3cj			
 [core]
 	editor = nano
+[init]
+	defaultBranch = main
