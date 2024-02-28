@@ -1,6 +1,6 @@
 #! /bin/bash
 
-DOTFILES=(.bash_profile .gitconfig .gitignore)
+DOTFILES=(.bash_profile .gitconfig .gitignore .zshrc)
 
 #Remove old dotfiles and replace them
 for dotfile in $(echo ${DOTFILES[*]});
